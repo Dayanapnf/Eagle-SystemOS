@@ -12,7 +12,7 @@ public class ModuloConexao {
     private static String url = "jdbc:postgresql://localhost:5432/Projeto_Os";
     
     private static final String usuario = "postgres";
-    private static final String senha = "day293847"; 
+    private static final String senha = "postgres"; 
     
     //estabelecendo a conexao com o banco
     public static Connection conector(){
