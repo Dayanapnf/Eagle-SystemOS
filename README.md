@@ -3,7 +3,9 @@
 
 O projeto Eagle SystemOS foi pensado em uma problemática enfrentada por uma pequena empresa de Segurança eletrônica de um familiar que enfrentava dificuldade na organização de suas ordens de serviços, diante desse cenário resolvi desenvolver o Eagle-SystemOS.
 
-### Linguagens:
+### Linguagens/Ferramentas:
+
+  ![ícones](https://user-images.githubusercontent.com/71513260/151621381-38f997df-dc77-4bb4-9369-bc897674b440.png)
 
 :dart: Melhorias futuras : 
   O sistema é funcional, mas pretendo adicionar a funcionalidade de emissão de relatórios.
